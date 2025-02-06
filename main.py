@@ -9,8 +9,8 @@ date = input("Which year do you want to travel to? Type the date in this format 
 release_year= int(date.split("-")[0])
 
 # Replace with your own client ID and client secret from Spotify Developer Dashboard
-client_id = 'fad1dca008e54f3392033fe232804212'
-client_secret = '7dd861886ce440cabecd5772fe7dc091'
+client_id = 'Your-CLIENT-ID'
+client_secret = 'YOUR-CLIENT-SECRET'
 
 
 billboardsite= 'https://www.billboard.com/charts/hot-100/' + date

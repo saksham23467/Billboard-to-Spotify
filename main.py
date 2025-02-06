@@ -96,8 +96,8 @@ create_spotify_playlist(playlist_name, spotify_ids)
 
 
 
-# CLIENT_ID = "fad1dca008e54f3392033fe232804212"
-# CLIENT_SECRET = "7dd861886ce440cabecd5772fe7dc091"
+client_id = 'Your-CLIENT-ID'
+client_secret = 'YOUR-CLIENT-SECRET'
 # SPOTIPY_REDIRECT_URI= "example.com"
 # from bs4 import BeautifulSoup
 # import spotipy
